@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vitor%20Henriques&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20MicroSaaS%20em%20Produ%C3%A7%C3%A3o&descAlignY=58&descColor=a8b2d8"/>
-
 </div>
 
 ---
@@ -33,14 +31,19 @@ Atualmente aprofundando lógica de programação e estruturas de dados, com foco
 
 ### Projeto em destaque
 
-<a href="https://github.com/Vitorenriks/cm-manager-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorenriks&repo=cm-manager-pro&theme=tokyonight&hide_border=true" />
-</a>
+#### 🏗️ [CM Manager Pro](https://github.com/Vitorenriks/cm-manager-pro)
 
-> **CM Manager Pro** — MicroSaaS de gestão de obras em produção.  
-> PostgreSQL · Flask-Login · PBKDF2-SHA256 · Mobile-First · Deploy no Render  
->
-> 🔗 [Ver projeto ao vivo](https://cm-manager-pro.onrender.com)
+> MicroSaaS de gestão de obras em produção — desenvolvido com Python e Flask.
+
+| Tecnologia | Detalhe |
+|---|---|
+| Backend | Python · Flask · SQLAlchemy |
+| Banco de dados | PostgreSQL (produção) |
+| Segurança | Flask-Login · PBKDF2-SHA256 |
+| Frontend | Bootstrap 5 · Mobile-First |
+| Deploy | Render |
+
+🔗 **[Ver projeto ao vivo](https://cm-manager-pro.onrender.com)** — login com `admin` / `1234`
 
 ---
 
@@ -53,10 +56,9 @@ Atualmente aprofundando lógica de programação e estruturas de dados, com foco
 ### GitHub Stats
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vitorenriks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorenriks&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -65,9 +67,10 @@ Atualmente aprofundando lógica de programação e estruturas de dados, com foco
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-henriques-86a37b2a4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitorenriks)
+[![Projeto ao vivo](https://img.shields.io/badge/Deploy-CM%20Manager%20Pro-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://cm-manager-pro.onrender.com)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
 </div>
