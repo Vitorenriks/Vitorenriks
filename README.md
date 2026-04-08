@@ -31,7 +31,7 @@ Atualmente aprofundando lógica de programação e estruturas de dados, com foco
 
 ### Projeto em destaque
 
-#### 🏗️ [CM Manager Pro](https://github.com/Vitorenriks/cm-manager-pro)
+####  [CM Manager Pro](https://github.com/Vitorenriks/cm-manager-pro)
 
 > MicroSaaS de gestão de obras em produção — desenvolvido com Python e Flask.
 
@@ -43,23 +43,21 @@ Atualmente aprofundando lógica de programação e estruturas de dados, com foco
 | Frontend | Bootstrap 5 · Mobile-First |
 | Deploy | Render |
 
-🔗 **[Ver projeto ao vivo](https://cm-manager-pro.onrender.com)** — login com `admin` / `1234`
+**[Ver projeto ao vivo](https://cm-manager-pro.onrender.com)** — login com `admin` / `1234`
 
 ---
 
 ### Certificações
 
-🎓 **CS50x** — Introduction to Computer Science · Harvard University
+**CS50x** — Introduction to Computer Science · Harvard University
 
 ---
 
 ### GitHub Stats
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vitorenriks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorenriks&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+### GitHub Stats
+
+![Vitor's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Vitorenriks&theme=tokyo-night&hide_border=true)
 
 ---
 
