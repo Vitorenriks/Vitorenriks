@@ -10,7 +10,7 @@
 
 Desenvolvedor Python com base sólida pelo **CS50x da Harvard University** e graduado em **ADS pela Uninter (2021)**.
 
-Minha trajetória é marcada pela experiência real no "chão de fábrica" da tecnologia. Atuei anos na **Belmonte Distribuidora** como o elo estratégico entre a operação e os times de desenvolvimento de grandes ERPs (**Target Sistemas e Sisbev**).
+Minha trajetória é marcada pela experiência real no "chão de fábrica" da tecnologia. Atuei anos na Belmonte Distribuidora como o elo estratégico entre a operação e os times de desenvolvimento dos ERPs Target Sistemas e Sisbev.
 
 **Diferenciais que entrego:**
 - **Visão de Negócio:** Gestão de tickets, diagnóstico de APIs e resolução de erros críticos em manifestos e apps de vendas.
