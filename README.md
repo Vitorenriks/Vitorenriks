@@ -25,13 +25,12 @@ Atualmente evoluindo para **Full Stack com Angular e TypeScript**, aplicando ess
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![AnyDesk](https://img.shields.io/badge/AnyDesk-EF4437?style=for-the-badge&logo=anydesk&logoColor=white)
 
 ---
 
@@ -46,7 +45,7 @@ Atualmente evoluindo para **Full Stack com Angular e TypeScript**, aplicando ess
 | **Backend** | Python · Flask · SQLAlchemy |
 | **Banco de dados** | PostgreSQL (Produção) |
 | **Segurança** | Flask-Login · PBKDF2-SHA256 |
-| **Deploy** | [Acesse o Projeto ao Vivo](https://cm-manager-pro.onrender.com) |
+| **Deploy** | [Acesse o Projeto ao Vivo](https://cm-manager-pro-3ioe.onrender.com) |
 
 *Login para teste: `admin` / `1234`*
 
