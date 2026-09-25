@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vitor%20Henriques&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Full%20Stack%20em%20Evolu%C3%A7%C3%A3o&descAlignY=58&descColor=a8b2d8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vitor%20Henriques&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20SaaS%20%26%20Automa%C3%A7%C3%A3o&descAlignY=58&descColor=a8b2d8"/>
 
 [![Portfólio](https://img.shields.io/badge/Acesse%20Meu%20Portfólio-Clique%20Aqui-e94560?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vitorenriks.github.io/)
 </div>
@@ -8,46 +8,52 @@
 
 ### Sobre mim
 
-Desenvolvedor Python com base sólida pelo **CS50x da Harvard University** e graduado em **ADS pela Uninter (2021)**.
+Desenvolvedor de Software em constante evolução, com experiência prática na criação e implantação de soluções para problemas reais de negócio. Minha carreira vem sendo construída na interseção entre software, dados, processos e indústria: entender o problema, estruturar a solução, desenvolver, colocar em funcionamento e acompanhar sua aplicação no mundo real.
 
-Minha trajetória é marcada pela experiência real no "chão de fábrica" da tecnologia. Atuei anos na Belmonte Distribuidora como o elo estratégico entre a operação e os times de desenvolvimento dos ERPs Target Sistemas e Sisbev.
+**O que eu faço:**
+- **Desenvolvimento & Automação:** Criação de aplicações, análise de dados e automação de processos corporativos.
+- **Sinergia com a Indústria:** Atuação próxima da operação industrial, prestando suporte em contextos de gestão de projetos e grandes paradas industriais.
+- **Ecossistema & Arquitetura:** Estruturação de soluções completas, desde o tratamento de dados (Pandas) até a arquitetura de sistemas com regras de negócio, infraestrutura e evolução de produto.
 
-**Diferenciais que entrego:**
-- **Visão de Negócio:** Gestão de tickets, diagnóstico de APIs e resolução de erros críticos em manifestos e apps de vendas.
-- **Infraestrutura e Resiliência:** Manutenção de servidores, rotinas de backup e administração de redes locais.
-- **Pragmatismo:** Entendo que um bug não é apenas um erro técnico, mas um processo de negócio parado.
-
-Atualmente evoluindo para **Full Stack com Angular e TypeScript**, aplicando essa maturidade operacional na construção de sistemas robustos.
+Atualmente, estou expandindo minha stack, me aprofundando em **Docker** para containerização e **SQL Server** para sistemas corporativos.
 
 ---
 
 ### Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### Projeto em destaque
+### Projetos e Experiência em Destaque
 
-#### [CM Manager Pro](https://github.com/Vitorenriks/cm-manager-pro)
+#### SaaS de Gestão de Projetos
+> *Em homologação corporativa.* Solução completa focada na gestão de projetos, onde aprofundei minha experiência com arquitetura, banco de dados, gestão de usuários, regras de negócio e infraestrutura.
+- **Stack:** Python, Django, PostgreSQL, Docker.
 
-> MicroSaaS de gestão de obras em produção — desenvolvido com Python e Flask.
+#### MediusGest
+> *Em homologação.* Sistema interno de medição para faturamento. A solução transforma processos operacionais antes baseados em atividades manuais em um fluxo digital muito mais estruturado e rastreável.
+- **Stack:** Python, Pandas, Electron.
 
-| Tecnologia | Detalhe |
-|---|---|
-| **Backend** | Python · Flask · SQLAlchemy |
-| **Banco de dados** | PostgreSQL (Produção) |
-| **Segurança** | Flask-Login · PBKDF2-SHA256 |
-| **Deploy** | [Acesse o Projeto ao Vivo](https://cm-manager-pro-3ioe.onrender.com) |
+#### Solução de Sincronização Interna
+> Aplicação para sincronizar informações em tempo real e disponibilizá-las em um painel interno, com mecanismos próprios de controle de acesso.
+- **Stack:** C# / .NET, Banco de Dados, Redes/Segurança (Cloudflare e Tailscale).
 
-*Login para teste: `admin` / `1234`*
+#### CM Manager
+> Meu primeiro projeto colocado em produção corporativa. Uma aplicação web com autenticação, gerenciamento de perfis de usuários e operações CRUD para o dia a dia.
+- **Stack:** Python, Flask, SQLite, PostgreSQL.
+
+#### Stock Control (MVP)
+> Prova de conceito de controle de estoque com foco em resiliência. Utiliza abordagem PWA Local-First (funcionamento 100% offline), armazenamento persistente e suporte a múltiplos idiomas.
 
 ---
 
