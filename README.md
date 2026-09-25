@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vitor%20Henriques&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20SaaS%20%26%20Automa%C3%A7%C3%A3o&descAlignY=58&descColor=a8b2d8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vitor%20Henriques&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20SaaS%20e%20Automa%C3%A7%C3%A3o&descAlignY=58&descColor=a8b2d8"/>
 
 [![Portfólio](https://img.shields.io/badge/Acesse%20Meu%20Portfólio-Clique%20Aqui-e94560?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vitorenriks.github.io/)
 </div>
@@ -11,9 +11,9 @@
 Desenvolvedor de Software em constante evolução, com experiência prática na criação e implantação de soluções para problemas reais de negócio. Minha carreira vem sendo construída na interseção entre software, dados, processos e indústria: entender o problema, estruturar a solução, desenvolver, colocar em funcionamento e acompanhar sua aplicação no mundo real.
 
 **O que eu faço:**
-- **Desenvolvimento & Automação:** Criação de aplicações, análise de dados e automação de processos corporativos.
+- **Desenvolvimento e Automação:** Criação de aplicações, análise de dados e automação de processos corporativos.
 - **Sinergia com a Indústria:** Atuação próxima da operação industrial, prestando suporte em contextos de gestão de projetos e grandes paradas industriais.
-- **Ecossistema & Arquitetura:** Estruturação de soluções completas, desde o tratamento de dados (Pandas) até a arquitetura de sistemas com regras de negócio, infraestrutura e evolução de produto.
+- **Ecossistema e Arquitetura:** Estruturação de soluções completas, desde o tratamento de dados (Pandas) até a arquitetura de sistemas com regras de negócio, infraestrutura e evolução de produto.
 
 Atualmente, estou expandindo minha stack, me aprofundando em **Docker** para containerização e **SQL Server** para sistemas corporativos.
 
@@ -30,7 +30,7 @@ Atualmente, estou expandindo minha stack, me aprofundando em **Docker** para con
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git e GitHub](https://img.shields.io/badge/Git_e_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -54,12 +54,6 @@ Atualmente, estou expandindo minha stack, me aprofundando em **Docker** para con
 
 #### Stock Control (MVP)
 > Prova de conceito de controle de estoque com foco em resiliência. Utiliza abordagem PWA Local-First (funcionamento 100% offline), armazenamento persistente e suporte a múltiplos idiomas.
-
----
-
-### GitHub Stats
-
-![Vitor's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Vitorenriks&theme=tokyo-night&hide_border=true)
 
 ---
 
